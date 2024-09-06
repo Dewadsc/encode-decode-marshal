@@ -38,15 +38,15 @@
 </details>
 
 ## About The Project
-Program ini dirancang untuk mencoba untuk decode file main.py yang dimana berisi sedikit perintah untuk menampilkan text hello world. Jadi cara kerja program ini adalah melalui file tools.py ini dia akan menjalankan perintah untuk men decode isi file main.py dan outputnya akan menghasilkan file f-marshal.py yang dimana berisi perintah dari main.py yang sudah di decode.
+Program ini dirancang untuk mencoba untuk encode file main.py yang dimana berisi sedikit perintah untuk menampilkan text hello world. Jadi cara kerja program ini adalah melalui file tools.py ini dia akan menjalankan perintah untuk men encode isi file main.py dan outputnya akan menghasilkan file f-marshal.py yang dimana berisi perintah dari main.py yang sudah di encode.
 
-Namun walaupun sudah di decode hasil dari f-marshal.py ini akan tetap bisa di jalankan dan menghasilkan output text hello world pada terminal anda.
+Namun walaupun sudah di encode hasil dari f-marshal.py ini akan tetap bisa di jalankan dan menghasilkan output text hello world pada terminal anda.
 
-Untuk mengetahui tentang decode serta encode marshal lebih detail ini, silahkan anda cek video pada chanel YouTube saya yang sudah saya masukkan. Karna di video tersebut saya sudah menjelaskan tentang program ini secara detail (menurut saya). Jadi silahkan anda klik `View Demo` di paling atas.
+Untuk mengetahui tentang encode serta decode marshal lebih detail ini, silahkan anda cek video pada chanel YouTube saya yang sudah saya masukkan. Karna di video tersebut saya sudah menjelaskan tentang program ini secara detail (menurut saya). Jadi silahkan anda klik `View Demo` di paling atas.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-Program yang sederhana ini dibuat hanya dengan bahasa program Python dengan di dukung library marshal dari Python untuk mendukung decode pada file tools.py serta meng encode pada file f-marshal.py. 
+Program yang sederhana ini dibuat hanya dengan bahasa program Python dengan di dukung library marshal dari Python untuk mendukung encode pada file tools.py serta decode pada file f-marshal.py. 
 
 [![Python][Python.js]][Python-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,11 +69,11 @@ _Untuk menjalankan program tersebut cukup mudah sekali ya everybody, pertama tam
    git clone https://github.com/dewadsc/decode-encode-marshal.git
    ```
 2. Setelah itu anda silahkan siapkan terminal anda dan masuk ke dalam directory app, lalu ketik perintah dipoint ke 3
-3. Ketik perintah dibawah ini pada terminal anda untuk mendecode file `main.py`
+3. Ketik perintah dibawah ini pada terminal anda untuk encode file `main.py`
    ```
    python tools.py
    ```
-5. Ketik perintah dibawah ini pada terminal anda untuk menjalankan perintah yang sudah di decode sebelumnya
+5. Ketik perintah dibawah ini pada terminal anda untuk menjalankan perintah yang sudah di encode sebelumnya
    ```
    python f-marshal.py
    ```
