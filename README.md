@@ -42,7 +42,7 @@ Program ini dirancang untuk mencoba untuk decode file main.py yang dimana berisi
 
 Namun walaupun sudah di decode hasil dari f-marshal.py ini akan tetap bisa di jalankan dan menghasilkan output text hello world pada terminal anda.
 
-Untuk mengetahui tentang decode serta encode marshal lebih detail ini, silahkan anda cek video pada chanel YouTube saya yang sudah saya masukkan. Karna di video tersebut saya sudah menjelaskan tentang apa itu encode, apa itu decode, serta apa itu marshal. Jadi silahkan anda klik `View Demo` di paling atas.
+Untuk mengetahui tentang decode serta encode marshal lebih detail ini, silahkan anda cek video pada chanel YouTube saya yang sudah saya masukkan. Karna di video tersebut saya sudah menjelaskan tentang program ini secara detail (menurut saya). Jadi silahkan anda klik `View Demo` di paling atas.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
