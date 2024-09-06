@@ -5,7 +5,7 @@
   <h3 align="center">Encode - Decode Marshal</h3>
 
   <p align="center">
-    Program sederhana untuk decode serta encode type marshal.
+    Program sederhana untuk decode serta encode menggunakan library marshal dari python.
     <br />
     <br />
     <a href="#">View Demo</a>
